@@ -153,7 +153,7 @@ export const programData = {
           "summary": "In major jurisdictions, regulatory classification of crypto-assets often relies on concepts like decentralisation and maturity, yet these concepts are not always workable as practical tests. This session develops quantitative and qualitative metrics for assessing blockchain network decentralisation, exploring situations where off-chain factors and other relevant considerations pose challenges in making classification assessments. The goal is to produce a framework that regulators, auditors, and network operators can apply consistently.",
           "wg": "FASE",
           "speakers": "",
-          "moderator": "Joseph Beverley",
+          "moderator": "Joseph Beverley, Chloe White",
           "detailPage": "/events/20260301-block14/sessions/1-7",
           "agenda": [
             "1. Why decentralisation metrics matter for regulation and classification",
